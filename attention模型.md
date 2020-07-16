@@ -30,6 +30,7 @@ Wording Embedding：
 神经网络:
 
 ![](./images/神经网络)
+![](https://github.com/guodongxiaren/README/raw/master/img/codepast-logo.jpg)
 
 最左边的层叫做输入层，这层负责接收输入数据；最右边的层叫输出层，我们可以从这层获取神经网络输出数据。输入层和输出层之间的层叫做隐藏层。
 
