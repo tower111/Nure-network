@@ -146,4 +146,10 @@ RNN相比Attenthon比较：
 
 使用Attention关键点在于权重矩阵W1,W2......的生成
 
+## 参考
+
+https://zybuluo.com/hanbingtao/note/541458 一系列（1-7）
+https://www.jianshu.com/p/c94909b835d6 讲述了Attention模型
+https://www.bilibili.com/video/BV164411m79z?p=5 吴恩达机器学习教程
+
  
